@@ -1,12 +1,12 @@
-# SAP Canada ChatBot
+# Remitly ChatBot
 
-This is an SAP Canada-themed chatbot built with React and integrated with the Gemini API. The chatbot provides answers on topics related to SAP Canada’s software solutions, enterprise resource planning (ERP) services, and company information, helping users interact with relevant data seamlessly.
+This is a Remitly-themed chatbot built with React and integrated with the Gemini API. The chatbot provides answers on topics related to Remitly’s international money transfer services, exchange rates, and company information, helping users interact with relevant data seamlessly.
 
 ## Features
 
-- **User Interface**: Custom SAP Canada-themed design built using React components.
+- **User Interface**: Custom Remitly-themed design built using React components.
 - **API Integration**: Uses the Gemini API to fetch data and respond to user queries.
-- **Interactive Elements**: Provides information on SAP Canada topics such as cloud solutions, ERP software, and career opportunities.
+- **Interactive Elements**: Provides information on Remitly topics such as exchange rates, transfer methods, and customer support.
 - **Responsive Design**: Optimized for all screen sizes and devices.
 
 ## Limitations
